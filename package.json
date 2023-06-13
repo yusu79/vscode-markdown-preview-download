@@ -10,11 +10,11 @@
     "Other"
   ],
   "activationEvents": [],
-  "main": "./extension.js",
+  "main": "./workbench/test.js",
   "contributes": {
     "commands": [{
-      "command": "markdown-preview-download.helloWorld",
-      "title": "Hello World"
+      "command": "",
+      "title": ""
     }]
   },
   "scripts": {
